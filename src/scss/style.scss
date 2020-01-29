@@ -1,0 +1,21 @@
+//plugins
+
+//normalize css include
+@import "../../node_modules/normalize.css/normalize.css";
+
+//font-awesome 4.7 css include
+@import "font-awesome";
+
+//include media scss include
+@import "../../node_modules/include-media/dist/include-media";
+
+//components scss
+
+//common var include
+@import "includes/var";
+
+//common style include
+@import "includes/common";
+
+//todo style include
+@import "includes/todo";
